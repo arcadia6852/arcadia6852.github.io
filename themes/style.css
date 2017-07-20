@@ -282,17 +282,17 @@ body {
 }
 
 .post .entry a {
-	color: #dc7036;
+	color: #6f7a33;
 	text-decoration: none;
 }
 
 .post .entry a:hover {
 	color: #ffffff;
-	background-color: #9c4617;
+	background-color: #5b661f;
 }
 
 .post .entry p {
-    color: #dc7036;
+    /*color: #dc7036;*/
 	padding-bottom: 10px;
 }
 
