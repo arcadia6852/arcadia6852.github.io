@@ -119,21 +119,21 @@ body {
 /* @group Navigation */
 
 #navigation {
-	width: 786px;
+	width: 686px;
 	height: 42px;
 	background: url("images/nav-bg.gif") no-repeat left top;
 	list-style: none;
 }
 
 .menu {
-	width: 786px;
+	width: 686px;
 	height: 42px;
 	background: url("images/nav-bg.gif") no-repeat left top;
 	list-style: none;
 }
 
 .menu ul {
-	width: 786px;
+	width: 686px;
 	height: 42px;
 	background: url("images/nav-bg.gif") no-repeat left top;
 	list-style: none;
